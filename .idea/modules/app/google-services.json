@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "597105909373",
+    "firebase_url": "https://cnwebinar1-fb2be.firebaseio.com",
+    "project_id": "cnwebinar1-fb2be",
+    "storage_bucket": "cnwebinar1-fb2be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597105909373:android:b9542d5f9d420e12291b14",
+        "android_client_info": {
+          "package_name": "com.example.cnwebinar1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597105909373-ltf3gje9na8ugl9jffpc71beugd9kco8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cnwebinar1",
+            "certificate_hash": "f0ce3b3427d4637dd7cdd725187958df207d7a4b"
+          }
+        },
+        {
+          "client_id": "597105909373-anh2tl891hljb62amvhq611lmhngb1fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBohvyyoWBLn5r7IWCwbDSKU96uAeDhMxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597105909373-anh2tl891hljb62amvhq611lmhngb1fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
